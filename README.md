@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋,I'm Eduardo Varela</h1>
-<h3 align="center">Desarrollo frontend</h3>
+<h3 align="center">Frontend Development</h3>
 
 - 💬 Ask me about **HTML,Css,React,Bootstrap,Python and Matlab**
 
